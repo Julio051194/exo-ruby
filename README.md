@@ -1,4 +1,4 @@
-L'exercice pyramid.rb et l'exo_20.rb ce trouve à la fin de la liste de mon projet de jeudi et vendredi
+Voici le Lien de l'exercice pyramid.rb https://github.com/Julio051194/exo-ruby/blob/master/pyramide.rb
 
 
 Voici la liste des explications demander dans le projet de jeudi et vendredi
